@@ -1,0 +1,8 @@
+requests
+boto3
+schedule
+beautifulsoup4
+lxml
+pandas
+fastapi
+uvicorn
